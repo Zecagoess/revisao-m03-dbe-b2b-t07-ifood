@@ -95,7 +95,7 @@ Essa é a rota que permite o usuario cadastrado realizar o login no sistema.
         -   email
         -   senha
     -   Verificar se o e-mail existe
-    -   Validar e-mail e senha
+    -   Validar a senha
     -   Criar token de autenticação com id do usuário
 
 #### **Exemplo de requisição**

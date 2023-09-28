@@ -1,1 +1,1 @@
-module.exports = 'senha_segura'
+module.exports = process.env.CHAVE_SECRETA
